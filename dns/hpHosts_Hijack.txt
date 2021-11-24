@@ -1,0 +1,94 @@
+# hpHosts - HJK only
+#
+# The following are hosts in the hpHosts database with the HJK classification ONLY.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
+127.0.0.1	05p.com
+127.0.0.1	100ksearches.com
+127.0.0.1	17173.com
+127.0.0.1	404-not-found.bid
+127.0.0.1	51.net
+127.0.0.1	51115.com
+127.0.0.1	9p.cn
+127.0.0.1	afodo.com
+127.0.0.1	aoasa.com
+127.0.0.1	api.toptenreviews.com
+127.0.0.1	click.xmlmonetize.com
+127.0.0.1	core.insightexpressai.com
+127.0.0.1	curationservices.com
+127.0.0.1	datanotary.com
+127.0.0.1	easypic.com
+127.0.0.1	elephantlist.com
+127.0.0.1	emptyitfs.com
+127.0.0.1	femalesex.com
+127.0.0.1	filmsworlds.blogspot.co.uk
+127.0.0.1	filmsworlds.blogspot.com
+127.0.0.1	freetube.com
+127.0.0.1	gimmebargains.com
+127.0.0.1	helperprotectionext.biz
+127.0.0.1	homepage.emachines.com
+127.0.0.1	homepagle.com
+127.0.0.1	iblockpopups.com
+127.0.0.1	internet-browser.com
+127.0.0.1	js.kolmic.com
+127.0.0.1	ldkiekxc.rr.nu
+127.0.0.1	liflingren.info
+127.0.0.1	lycos.com.org
+127.0.0.1	macrostructurable161.club
+127.0.0.1	meetyourmessenger.co.uk
+127.0.0.1	microsoft.com.org
+127.0.0.1	moobor.com
+127.0.0.1	naked.com
+127.0.0.1	orgy.com
+127.0.0.1	pcspeedbooster.com
+127.0.0.1	plunderthesecurity.in
+127.0.0.1	poser-magic.de
+127.0.0.1	psn.cn
+127.0.0.1	qqwz.com
+127.0.0.1	qu123.com
+127.0.0.1	quickquacksearch.com
+127.0.0.1	raunchy.com
+127.0.0.1	ruserv.com
+127.0.0.1	search.myidentitydefender.com
+127.0.0.1	search.ruserv.com
+127.0.0.1	searchdf.biz
+127.0.0.1	serch-direct.com
+127.0.0.1	shellscriptcorrupt023.review
+127.0.0.1	sitesure.com
+127.0.0.1	smouch.net
+127.0.0.1	spyass.com
+127.0.0.1	spyware-surf413-info.bid
+127.0.0.1	sweet-page.com
+127.0.0.1	t2cn.com
+127.0.0.1	www.05p.com
+127.0.0.1	www.100ksearches.com
+127.0.0.1	www.afodo.com
+127.0.0.1	www.emptyitfs.com
+127.0.0.1	www.femalesex.com
+127.0.0.1	www.ffupdaterstatus.com
+127.0.0.1	www.find.fm
+127.0.0.1	www.freetube.com
+127.0.0.1	www.gimmebargains.com
+127.0.0.1	www.homepagle.com
+127.0.0.1	www.internet-browser.com
+127.0.0.1	www.meetyourmessenger.co.uk
+127.0.0.1	www.moobor.com
+127.0.0.1	www.naked.com
+127.0.0.1	www.orgy.com
+127.0.0.1	www.plunderthesecurity.in
+127.0.0.1	www.poser-magic.de
+127.0.0.1	www.raunchy.com
+127.0.0.1	www.ruserv.com
+127.0.0.1	www.sitesure.com
+127.0.0.1	www.smouch.net
+127.0.0.1	www.sweet-page.com
+127.0.0.1	www.transport-preservers.com
+127.0.0.1	www.www4search.net
+127.0.0.1	www4search.net
+127.0.0.1	youngteenporn.proboards89.com
+127.0.0.1	yyue.com
+# Hosts: 84
