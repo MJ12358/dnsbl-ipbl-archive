@@ -1,0 +1,8 @@
+# https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamusercontent.com
+steamcontent.com
+steamstatic.com
+akamaihd.net
