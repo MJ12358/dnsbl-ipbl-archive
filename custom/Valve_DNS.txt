@@ -5,4 +5,4 @@ steamgames.com
 steamusercontent.com
 steamcontent.com
 steamstatic.com
-akamaihd.net
+#akamaihd.net
