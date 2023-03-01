@@ -5,6 +5,7 @@ steamcommunity.com
 steamdeck.com
 steamgames.com
 steampowered.com
+test.steampowered.com
 steampoweredgames.com
 steamstatic.com
 steamusers.com
