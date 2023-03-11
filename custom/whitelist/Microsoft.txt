@@ -1,0 +1,44 @@
+# Connectivity
+www.msftncsi.com
+www.msftconnecttest.com
+# Websites
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+# Microsoft Store
+dl.delivery.mp.microsoft.com
+geo-prod.do.dsp.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+# Windows 10 Update
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+# XBox
+clientconfig.passport.net
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+client-s.gateway.messenger.live.com
+arc.msn.com
+activity.windows.com
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+ctldl.windowsupdate.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+xkms.xboxlive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
