@@ -1,5 +1,7 @@
 # Connectivity
+msftncsi.com
 www.msftncsi.com
+ipv6.msftncsi.com
 www.msftconnecttest.com
 # Websites
 outlook.office365.com
