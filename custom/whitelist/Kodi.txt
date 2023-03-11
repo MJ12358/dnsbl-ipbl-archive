@@ -1,0 +1,2 @@
+mirrors.kodi.tv
+mirrors.xbmc.org
