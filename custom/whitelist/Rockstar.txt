@@ -2,3 +2,6 @@ rockstargames.com
 support.rockstargames.com
 socialclub.rockstargames.com
 prod.telemetry.ros.rockstargames.com
+gamedownloads.rockstargames.com
+gamedownloads-rockstargames-com.akamaized.net
+rgl-prod.ros.rockstargames.com
