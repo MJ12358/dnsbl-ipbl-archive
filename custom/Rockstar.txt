@@ -1,0 +1,4 @@
+rockstargames.com
+support.rockstargames.com
+socialclub.rockstargames.com
+prod.telemetry.ros.rockstargames.com
