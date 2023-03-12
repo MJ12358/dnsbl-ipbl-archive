@@ -2,6 +2,8 @@
 # Google
 ####################
 
+google.com
+
 # Connectivity
 
 connectivitycheck.android.com
@@ -20,11 +22,13 @@ clients2.google.com
 # Youtube
 
 youtube.com
+www.youtube.com
 s.youtube.com
 video-stats.l.google.com
 www.googleapis.com
 youtubei.googleapis.com
 oauthaccountmanager.googleapis.com
+i.ytimg.com
 
 # Google Docs
 
@@ -45,6 +49,7 @@ reminders-pa.googleapis.com
 
 # Google Fonts
 
+fonts.googleapis.com
 gstaticadssl.l.google.com
 
 # Google Forms
