@@ -1,0 +1,60 @@
+# Hive OS
+
+hiveos.farm
+api.hiveon.net
+hiveon.net
+
+# 2 Miners
+
+2miners.com
+www.2miners.com
+
+# Nicehash
+
+nicehash.com
+www.nicehash.com
+api2.nicehash.com
+
+# Minergate
+
+minergate.com
+www.minergate.com
+cwsa.minergate.com
+
+# Chia
+
+chia.net
+www.chia.net
+docs.chia.net
+download.chia.net
+pypi.chia.net
+kbp.keybaseapi.com
+
+# PKT
+
+pktpool.io
+www.pktpool.io
+pkt.world
+www.pkt.world
+pktco.in
+www.pktco.in
+pool.srizbi.com
+stratum.zetahash.com
+anycast.zetahash.com
+
+# XMRig
+
+xmrig.com
+www.xmrig.com
+config.xmrig.com
+
+# Misc
+
+gridcoin.us
+www.grcpool.com
+whattomine.com
+images.whattomine.com
+spacefarmers.io
+semipool.com
+webxmr.semipool.com
+pool.semipool.com
