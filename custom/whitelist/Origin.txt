@@ -1,1 +1,0 @@
-cloudsync-prod.s3.amazonaws.com

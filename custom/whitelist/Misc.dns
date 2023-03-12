@@ -1,3 +1,7 @@
+####################
+# Misc
+####################
+
 aida64.com
 forums.aida64.com
 plinkusa.net
@@ -9,9 +13,6 @@ sevenfourms.com
 tenforums.com
 thepiratebay.org
 psarips.top
-jetbrains.com
-jsfiddle.net
-dev.to
 pfsense.org
 www.squid-cache.org
 g2a.com
@@ -19,8 +20,6 @@ www.g2a.com
 bsod.pw
 www.kvraudio.com
 www.pcguide.com
-jqueryui.com
-api.jqueryui.com
 www.rosewill.com
 www.usopc.com.edgekey.net # CNAME for (www.rosewill.com)
 e8386.a.akamaiedge.net # CNAME for (www.rosewill.com)
@@ -47,6 +46,8 @@ www.metaltabs.com
 joinhoney.com
 s.joinhoney.com
 d.joinhoney.com
+www.nexusmods.com
+api.nexusmods.com
 
 # Duck DNS
 

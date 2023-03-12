@@ -1,3 +1,7 @@
+####################
+# Microsoft
+####################
+
 # Connectivity
 
 msftncsi.com
@@ -51,7 +55,9 @@ svc.ms
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
+
 # Windows 10 Update
+
 sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
@@ -88,18 +94,3 @@ help.ui.xboxlive.com
 licensing.xboxlive.com
 eds.xboxlive.com
 www.xboxlive.com
-
-# GitHub
-
-github.com
-gitlab.com
-gitmemory.com
-raw.githubusercontent.com
-codeload.github.com
-
-# VSCode
-
-update.code.visualstudio.com
-code.visualstudio.com
-marketplace.visualstudio.com
-download.visualstudio.microsoft.com

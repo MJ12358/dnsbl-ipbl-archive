@@ -1,0 +1,1 @@
+copy *.dns output.dns

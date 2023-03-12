@@ -1,0 +1,1 @@
+copy *.ip output.ip
