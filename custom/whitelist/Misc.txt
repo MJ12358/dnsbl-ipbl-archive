@@ -3,3 +3,51 @@ asio4all.org
 aida64.com
 forums.aida64.com
 kali.download
+duckduckgo.com
+camelcamelcamel.com
+sevenfourms.com
+tenforums.com
+freegeoip.com
+ipdata.co
+ip-api.com
+ipinfo.io
+cdn.ipinfo.io
+thepiratebay.org
+psarips.top
+jetbrains.com
+jsfiddle.net
+dev.to
+pfsense.org
+g2a.com
+www.g2a.com
+bsod.pw
+
+# Raspberry Pi
+
+raspberrypi.com
+pikvm.org
+
+# Ubuntu
+
+ubuntu.com
+snapcraft.io
+
+# Mediamonkey
+
+mediamonkey.com
+www.mediamonkey.com
+
+# Images
+
+imgur.com
+secure.gravatar.com
+cdn.optimizely.com
+cf2.imgobject.com
+
+# Unity
+
+config.uca.cloud.unity3d.com
+remote-config-prd.uca.cloud.unity3d.com
+cdp.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com
+thind-gke-usc.prd.data.corp.unity3d.com
