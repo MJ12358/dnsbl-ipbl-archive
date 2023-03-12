@@ -40,6 +40,10 @@ reminders-pa.googleapis.com
 
 gstaticadssl.l.google.com
 
+# Google Forms
+
+forms.gle
+
 # Gmail
 
 mail.google.com
@@ -59,3 +63,4 @@ redirector.gvt1.com
 
 firestore.googleapis.com
 firebasestorage.googleapis.com
+firebaseinstallations.googleapis.com
