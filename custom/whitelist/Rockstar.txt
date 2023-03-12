@@ -5,3 +5,5 @@ prod.telemetry.ros.rockstargames.com
 gamedownloads.rockstargames.com
 gamedownloads-rockstargames-com.akamaized.net
 rgl-prod.ros.rockstargames.com
+www.prod.telemetry.ros.rockstargames.com
+elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com # CNAME for (prod.telemetry.ros.rockstargames.com)
