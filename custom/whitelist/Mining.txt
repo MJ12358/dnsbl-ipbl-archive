@@ -28,7 +28,7 @@ www.chia.net
 docs.chia.net
 download.chia.net
 pypi.chia.net
-kbp.keybaseapi.com
+kbp.keybaseapi.com # CNAME for (pypi.chia.net)
 
 # PKT
 
