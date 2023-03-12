@@ -7,21 +7,32 @@ connectivitycheck.gstatic.com
 clients4.google.com
 clients2.google.com
 # Youtube
+youtube.com
 s.youtube.com
 video-stats.l.google.com
 www.googleapis.com
 youtubei.googleapis.com
 oauthaccountmanager.googleapis.com
+# Google Docs
+docs.google.com
+# Google Drive
+drive.google.com
 # Google Play
+play.google.com
 android.clients.google.com
 # Google Keep
 reminders-pa.googleapis.com
-firestore.googleapis.com
 # Google Fonts
 gstaticadssl.l.google.com
 # Gmail
+mail.google.com
 googleapis.l.google.com
+storage.googleapis.com
 # Chrome
+accounts.google.com
 dl.google.com
 # Android TV
 redirector.gvt1.com
+# Firebase
+firestore.googleapis.com
+firebasestorage.googleapis.com
