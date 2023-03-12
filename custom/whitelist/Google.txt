@@ -3,6 +3,7 @@
 connectivitycheck.android.com
 android.clients.google.com
 clients3.google.com
+clients.l.google.com # CNAME for (clients3.google.com)
 connectivitycheck.gstatic.com 
 
 # Maps
@@ -58,9 +59,13 @@ dl.google.com
 # Android TV
 
 redirector.gvt1.com
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 
 # Firebase
 
 firestore.googleapis.com
 firebasestorage.googleapis.com
 firebaseinstallations.googleapis.com
+imasdk.googleapis.com
+firebase-settings.crashlytics.com
