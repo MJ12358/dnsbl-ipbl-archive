@@ -62,6 +62,12 @@ ip-api.com
 ipinfo.io
 cdn.ipinfo.io
 
+# LastPass
+
+lastpass.com
+www.lastpass.com
+helpdesk.lastpass.com
+
 # Raspberry Pi
 
 raspberrypi.com
