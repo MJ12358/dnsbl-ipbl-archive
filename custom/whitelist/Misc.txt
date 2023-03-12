@@ -43,6 +43,9 @@ csp-reporting.cloudflare.com
 www.csp-reporting.cloudflare.com
 metaltabs.com
 www.metaltabs.com
+joinhoney.com
+s.joinhoney.com
+d.joinhoney.com
 
 # Duck DNS
 
