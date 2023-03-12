@@ -13,6 +13,7 @@ jetbrains.com
 jsfiddle.net
 dev.to
 pfsense.org
+www.squid-cache.org
 g2a.com
 www.g2a.com
 bsod.pw
