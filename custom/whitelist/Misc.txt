@@ -43,6 +43,10 @@ imgur.com
 secure.gravatar.com
 cdn.optimizely.com
 cf2.imgobject.com
+gravatar.com
+en.gravatar.com
+lb.gravatar.com
+s.gravatar.com
 
 # Unity
 
