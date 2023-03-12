@@ -1,17 +1,12 @@
-plinkusa.net
-asio4all.org
 aida64.com
 forums.aida64.com
+plinkusa.net
+asio4all.org
 kali.download
 duckduckgo.com
 camelcamelcamel.com
 sevenfourms.com
 tenforums.com
-freegeoip.com
-ipdata.co
-ip-api.com
-ipinfo.io
-cdn.ipinfo.io
 thepiratebay.org
 psarips.top
 jetbrains.com
@@ -21,6 +16,22 @@ pfsense.org
 g2a.com
 www.g2a.com
 bsod.pw
+www.kvraudio.com
+www.pcguide.com
+jqueryui.com
+api.jqueryui.com
+www.rosewill.com
+www.usopc.com.edgekey.net # CNAME for (www.rosewill.com)
+e8386.a.akamaiedge.net # CNAME for (www.rosewill.com)
+www.cygwin.com
+
+# IP Information
+
+freegeoip.com
+ipdata.co
+ip-api.com
+ipinfo.io
+cdn.ipinfo.io
 
 # Raspberry Pi
 
