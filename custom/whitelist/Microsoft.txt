@@ -1,16 +1,53 @@
 # Connectivity
+
 msftncsi.com
 www.msftncsi.com
 ipv6.msftncsi.com
 www.msftconnecttest.com
-# Websites
-outlook.office365.com
-products.office.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+
+# Azure
+
+add.portal.azure.com
+aira.microsoft.com
+flow.microsoft.com
+logic.azure.com
+graph.microsoft.com
+azuredns-hostmaster.microsoft.com
+
+# Microsoft Login
+
 c.s-microsoft.com
 i.s-microsoft.com
 login.live.com
 login.microsoftonline.com
+
+# Microsoft Office
+
+officeclient.microsoft.com
+products.office.com
+outlook.office.com
+outlook.office365.com
+forms.office.com
+onedrive.com
+onedrive.live.com
+admin.onedrive.com
+skydrive.live.com
+skydrive.wns.windows.com
+storage.live.com
+oneclient.sfx.ms
+oneclient.sfx.ms.edgekey.net
+odc-web-geo.onedrive.akadns.net
+odc-web-brs.onedrive.akadns.net
+ssw.live.com
+g.live.com
+svc.ms
+
 # Microsoft Store
+
 dl.delivery.mp.microsoft.com
 geo-prod.do.dsp.mp.microsoft.com
 displaycatalog.mp.microsoft.com
@@ -18,10 +55,19 @@ displaycatalog.mp.microsoft.com
 sls.update.microsoft.com.akadns.net
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
+
+# Sharepoint
+
+sharepointonline.com
+
+# Teams
+
+teams.microsoft.com
+broadcast.skype.com
+
 # XBox
+
 clientconfig.passport.net
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
 client-s.gateway.messenger.live.com
 arc.msn.com
 activity.windows.com
@@ -42,9 +88,9 @@ help.ui.xboxlive.com
 licensing.xboxlive.com
 eds.xboxlive.com
 www.xboxlive.com
-v10.vortex-win.data.microsoft.com
-settings-win.data.microsoft.com
+
 # VSCode
+
 update.code.visualstudio.com
 code.visualstudio.com
 marketplace.visualstudio.com
