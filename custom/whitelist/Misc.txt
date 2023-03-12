@@ -24,6 +24,31 @@ www.rosewill.com
 www.usopc.com.edgekey.net # CNAME for (www.rosewill.com)
 e8386.a.akamaiedge.net # CNAME for (www.rosewill.com)
 www.cygwin.com
+mail.com
+www.mail.com
+click.e.progressive.com
+thirdparty.bnc.lt # CNAME for (click.e.progressive.com)
+schema.org
+mandrillapp.com
+en.wikipedia.org
+www.en.wikipedia.org
+rsyslog.com
+www.rsyslog.com
+floatingweb.adiscon.com # CNAME for (rsyslog.com)
+account.venmo.com
+www.account.venmo.com
+tracker.trackerfix.com
+www.tracker.trackerfix.com
+csp-reporting.cloudflare.com
+www.csp-reporting.cloudflare.com
+metaltabs.com
+www.metaltabs.com
+
+# Duck DNS
+
+duckdns.org
+www.duckdns.org
+appservers-duckdns-prod-1630339571.ca-central-1.elb.amazonaws.com # CNAME for (duckdns.org)
 
 # IP Information
 
@@ -48,6 +73,15 @@ snapcraft.io
 mediamonkey.com
 www.mediamonkey.com
 
+# Maxmind
+
+maxmind.com
+www.maxmind.com
+static.maxmind.com
+www.static.maxmind.com
+download.maxmind.com
+www.download.maxmind.com
+
 # Images
 
 imgur.com
@@ -66,3 +100,17 @@ remote-config-prd.uca.cloud.unity3d.com
 cdp.cloud.unity3d.com
 prd-lender.cdp.internal.unity3d.com
 thind-gke-usc.prd.data.corp.unity3d.com
+
+# US Bank
+
+usbank.demdex.net
+www.usbank.demdex.net
+gslb-2.demdex.net # CNAME for (usbank.demdex.net)
+edge-usw2.demdex.net # CNAME for (usbank.demdex.net)
+dcs-edge-usw2-620097651.us-west-2.elb.amazonaws.com # CNAME for (usbank.demdex.net)
+tags.tiqcdn.com
+www.tags.tiqcdn.com
+dzfq4ouujrxm8.cloudfront.net # CNAME for (tags.tiqcdn.com)
+cdn.pendo.io
+www.cdn.pendo.io
+d18dtii85prvml.cloudfront.net # CNAME for (cdn.pendo.io)
