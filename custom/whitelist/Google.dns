@@ -6,18 +6,15 @@ google.com
 
 # Connectivity
 
-connectivitycheck.android.com
 android.clients.google.com
+clients2.google.com
 clients3.google.com
 clients.l.google.com # CNAME for (clients3.google.com)
+clients4.google.com
+connectivitycheck.android.com
 connectivitycheck.gstatic.com 
 jnn-pa.googleapis.com
 www.jnn-pa.googleapis.com
-
-# Maps
-
-clients4.google.com
-clients2.google.com
 
 # Youtube
 
