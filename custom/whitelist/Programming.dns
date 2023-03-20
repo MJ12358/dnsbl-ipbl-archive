@@ -17,8 +17,19 @@ gitmemory.com
 
 # JQuery
 
+code.jquery.com
 jqueryui.com
 api.jqueryui.com
+
+# Metrics
+
+bam.nr-data.net
+ingest.sentry.io
+events.split.io
+sdk.split.io
+js-agent.newrelic.com
+c.go-mpulse.com
+s.go-mpulse.net
 
 # VSCode
 

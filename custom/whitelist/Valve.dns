@@ -4,26 +4,56 @@
 
 # https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
 steam-chat.com
+www.steam-chat.com
 steamcontent.com
+www.steamcontent.com
 steamcommunity.com
+www.steamcommunity.com
 steamdeck.com
+www.steamdeck.com
 steamgames.com
+www.steamgames.com
 steampowered.com
+www.steampowered.com
+store.steampowered.com
+www.store.steampowered.com
 test.steampowered.com
+www.test.steampowered.com
 steampoweredgames.com
+www.steampoweredgames.com
 steamstatic.com
+www.steamstatic.com
 steamusers.com
+www.steamusers.com
 steamusercontent.com
+www.steamusercontent.com
 valve.org
+www.valve.org
 valvecorporation.com
+www.valvecorporation.com
 valvesoftware.com
-#akamaihd.net
+www.valvesoftware.com
 steam-a.akamaihd.net
+www.steam-a.akamaihd.net
+steam-a.akamaihd.net.edgesuite.net # CNAME for (steam-a.akamaihd.net)
 steamcommunity-a.akamaihd.net
+www.steamcommunity-a.akamaihd.net
+steamcommunity-a.akamaihd.net.edgesuite.net # CNAME for (steamcommunity-a.akamaihd.net)
 steamcdn-a.akamaihd.net
+www.steamcdn-a.akamaihd.net
+steamcdn-a.akamaihd.net.edgesuite.net # CNAME for (steamcdn-a.akamaihd.net)
 steamstore-a.akamaihd.net
+www.steamstore-a.akamaihd.net
+steamstore-a.akamaihd.net.edgesuite.net # CNAME for (steamstore-a.akamaihd.net)
 steamuserimages-a.akamaihd.net
+www.steamuserimages-a.akamaihd.net
+steamuserimages-a.akamaihd.net.edgesuite.net # CNAME for (steamuserimages-a.akamaihd.net)
 steamvideo-a.akamaihd.net
-#akamaized.net
+www.steamvideo-a.akamaihd.net
+steamvideo-a.akamaihd.net.edgesuite.net # CNAME for (steamvideo-a.akamaihd.net)
 steambroadcast.akamaized.net
+www.steambroadcast.akamaized.net
+a1507.w16.akamai.net # CNAME for (steambroadcast.akamaized.net)
 steampipe.akamaized.net
+www.steampipe.akamaized.net
+a1507.dscw27.akamai.net # CNAME for (steampipe.akamaized.net)

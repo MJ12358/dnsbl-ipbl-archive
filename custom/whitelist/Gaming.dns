@@ -2,22 +2,74 @@
 # Gaming
 ####################
 
+# Crytek
+
+cryengine.com
+
+# EA
+
+ea.com
+fonts.ea.com
+fonts.ea.com.c.footprint.net # CNAME for (fonts.ea.com)
+help.ea.com
+ea5.com.edgekey.net # CNAME for (help.ea.com)
+info.social.ea.com
+information-api-gateway-prod-blck.us-east-1.elasticbeanstalk.com # CNAME for (info.social.ea.com)
+lvlt.cdn.ea.com
+lvlt.cdn.ea.com.c.footprint.net # CNAME for (lvlt.cdn.ea.com)
+pin-em.data.ea.com
+pin-em.eadpdata.ddns.ea.com # CNAME for (pin-em.data.ea.com)
+pin-river.data.ea.com
+lightning-river-prod-pin-1006527635.us-east-1.elb.amazonaws.com # CNAME for (pin-river.data.ea.com)
+river.data.ea.com
+river.eadpdata.ddns.ea.com # CNAME for (river.data.ea.com)
+eaassets-a.akamaihd.net
+eaassets-a.akamaihd.net.edgesuite.net # CNAME for (eaassets-a.akamaihd.net)
+groups.gameservices.ea.com
+groups.tnt-ea.com # CNAME for (groups.gameservices.ea.com)
+battlelog.com
+www.battlelog.com
+battlelog.battlefield.com
+www.battlelog.battlefield.com
+ea3.com.edgekey.net # CNAME for (battlelog.battlefield.com)
+ea7.com.edgekey.net
+e4894.e12.akamaiedge.net. # CNAME for (ea7.com.edgekey.net)
+cdn.battlelog.com
+d15x0nwh5tj6h5.cloudfront.net # CNAME for (cdn.battlelog.com)
+cloudsync-prod.s3.amazonaws.com
+s3-1-w.amazonaws.com # CNAME for (cloudsync-prod.s3.amazonaws.com)
+
 # Epic
 
+graphql.epicgames.com
 tracking.epicgames.com
-
-# Origin
-
-cloudsync-prod.s3.amazonaws.com
+tracking-website-prod-674464163.us-east-1.elb.amazonaws.com # CNAME for (tracking.epicgames.com)
 
 # Rockstar
 
 rockstargames.com
+www.rockstargames.com
 support.rockstargames.com
+www.support.rockstargames.com
+support.rockstargames.com.edgekey.net # CNAME for (support.rockstargames.com)
 socialclub.rockstargames.com
-prod.telemetry.ros.rockstargames.com
+www.socialclub.rockstargames.com
 gamedownloads.rockstargames.com
+www.gamedownloads.rockstargames.com
+gamedownloads-rockstargames.edgekey.net # CNAME for (gamedownloads.rockstargames.com)
 gamedownloads-rockstargames-com.akamaized.net
-rgl-prod.ros.rockstargames.com
+www.gamedownloads-rockstargames-com.akamaized.net
+a498.dscd.akamai.net # CNAME for (gamedownloads-rockstargames-com.akamaized.net)
+prod.telemetry.ros.rockstargames.com
 www.prod.telemetry.ros.rockstargames.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com # CNAME for (prod.telemetry.ros.rockstargames.com)
+rgl-prod.ros.rockstargames.com
+www.rgl-prod.ros.rockstargames.com
+
+# Unity
+
+config.uca.cloud.unity3d.com
+remote-config-prd.uca.cloud.unity3d.com # CNAME for (config.uca.cloud.unity3d.com)
+cdp.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
+thind-gke-usc.prd.data.corp.unity3d.com # CNAME for (cdp.cloud.unity3d.com)

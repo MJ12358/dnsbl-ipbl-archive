@@ -29,8 +29,13 @@ tracker.trackerfix.com
 www.tracker.trackerfix.com
 csp-reporting.cloudflare.com
 www.csp-reporting.cloudflare.com
+disconnect.me
 metaltabs.com
 www.metaltabs.com
+friendos.com
+docs.friendos.com
+xvideos.com
+www.xvideos.com
 
 # DNS
 
@@ -49,12 +54,15 @@ d.joinhoney.com
 # Images
 
 imgur.com
+p.imgur.com
+t.imgur.com
 secure.gravatar.com
 cdn.optimizely.com
 cf2.imgobject.com
 gravatar.com
 en.gravatar.com
 lb.gravatar.com # CNAME for (en.gravatar.com)
+nl.gravatar.com
 s.gravatar.com
 
 # IP Information
@@ -129,14 +137,6 @@ x1337x.eu
 
 ubuntu.com
 snapcraft.io
-
-# Unity
-
-config.uca.cloud.unity3d.com
-remote-config-prd.uca.cloud.unity3d.com # CNAME for (config.uca.cloud.unity3d.com)
-cdp.cloud.unity3d.com
-prd-lender.cdp.internal.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
-thind-gke-usc.prd.data.corp.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
 
 # US Bank
 

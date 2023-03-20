@@ -10,14 +10,19 @@ s3.amazonaws.com
 # Apple
 ####################
 
+# Apple ID
+
+appleid.apple.com
+
 # Apple Music
 
 itunes.apple.com
 s.mzstatic.com
 
-# Apple ID
+# Apple Store
 
-appleid.apple.com
+xp.apple.com
+appstoreconnect.apple.com
 
 # iOS Weather
 
@@ -45,25 +50,77 @@ minneapolis.craigslist.org
 # Gaming
 ####################
 
+# Crytek
+
+cryengine.com
+
+# EA
+
+ea.com
+fonts.ea.com
+fonts.ea.com.c.footprint.net # CNAME for (fonts.ea.com)
+help.ea.com
+ea5.com.edgekey.net # CNAME for (help.ea.com)
+info.social.ea.com
+information-api-gateway-prod-blck.us-east-1.elasticbeanstalk.com # CNAME for (info.social.ea.com)
+lvlt.cdn.ea.com
+lvlt.cdn.ea.com.c.footprint.net # CNAME for (lvlt.cdn.ea.com)
+pin-em.data.ea.com
+pin-em.eadpdata.ddns.ea.com # CNAME for (pin-em.data.ea.com)
+pin-river.data.ea.com
+lightning-river-prod-pin-1006527635.us-east-1.elb.amazonaws.com # CNAME for (pin-river.data.ea.com)
+river.data.ea.com
+river.eadpdata.ddns.ea.com # CNAME for (river.data.ea.com)
+eaassets-a.akamaihd.net
+eaassets-a.akamaihd.net.edgesuite.net # CNAME for (eaassets-a.akamaihd.net)
+groups.gameservices.ea.com
+groups.tnt-ea.com # CNAME for (groups.gameservices.ea.com)
+battlelog.com
+www.battlelog.com
+battlelog.battlefield.com
+www.battlelog.battlefield.com
+ea3.com.edgekey.net # CNAME for (battlelog.battlefield.com)
+ea7.com.edgekey.net
+e4894.e12.akamaiedge.net. # CNAME for (ea7.com.edgekey.net)
+cdn.battlelog.com
+d15x0nwh5tj6h5.cloudfront.net # CNAME for (cdn.battlelog.com)
+cloudsync-prod.s3.amazonaws.com
+s3-1-w.amazonaws.com # CNAME for (cloudsync-prod.s3.amazonaws.com)
+
 # Epic
 
+graphql.epicgames.com
 tracking.epicgames.com
-
-# Origin
-
-cloudsync-prod.s3.amazonaws.com
+tracking-website-prod-674464163.us-east-1.elb.amazonaws.com # CNAME for (tracking.epicgames.com)
 
 # Rockstar
 
 rockstargames.com
+www.rockstargames.com
 support.rockstargames.com
+www.support.rockstargames.com
+support.rockstargames.com.edgekey.net # CNAME for (support.rockstargames.com)
 socialclub.rockstargames.com
-prod.telemetry.ros.rockstargames.com
+www.socialclub.rockstargames.com
 gamedownloads.rockstargames.com
+www.gamedownloads.rockstargames.com
+gamedownloads-rockstargames.edgekey.net # CNAME for (gamedownloads.rockstargames.com)
 gamedownloads-rockstargames-com.akamaized.net
-rgl-prod.ros.rockstargames.com
+www.gamedownloads-rockstargames-com.akamaized.net
+a498.dscd.akamai.net # CNAME for (gamedownloads-rockstargames-com.akamaized.net)
+prod.telemetry.ros.rockstargames.com
 www.prod.telemetry.ros.rockstargames.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com # CNAME for (prod.telemetry.ros.rockstargames.com)
+rgl-prod.ros.rockstargames.com
+www.rgl-prod.ros.rockstargames.com
+
+# Unity
+
+config.uca.cloud.unity3d.com
+remote-config-prd.uca.cloud.unity3d.com # CNAME for (config.uca.cloud.unity3d.com)
+cdp.cloud.unity3d.com
+prd-lender.cdp.internal.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
+thind-gke-usc.prd.data.corp.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
 ####################
 # Google
 ####################
@@ -215,10 +272,12 @@ tlu.dl.delivery.mp.microsoft.com
 
 # Sharepoint
 
+sharepoint.com
 sharepointonline.com
 
 # Teams
 
+lync.com
 teams.microsoft.com
 broadcast.skype.com
 
@@ -348,8 +407,13 @@ tracker.trackerfix.com
 www.tracker.trackerfix.com
 csp-reporting.cloudflare.com
 www.csp-reporting.cloudflare.com
+disconnect.me
 metaltabs.com
 www.metaltabs.com
+friendos.com
+docs.friendos.com
+xvideos.com
+www.xvideos.com
 
 # DNS
 
@@ -368,12 +432,15 @@ d.joinhoney.com
 # Images
 
 imgur.com
+p.imgur.com
+t.imgur.com
 secure.gravatar.com
 cdn.optimizely.com
 cf2.imgobject.com
 gravatar.com
 en.gravatar.com
 lb.gravatar.com # CNAME for (en.gravatar.com)
+nl.gravatar.com
 s.gravatar.com
 
 # IP Information
@@ -449,14 +516,6 @@ x1337x.eu
 ubuntu.com
 snapcraft.io
 
-# Unity
-
-config.uca.cloud.unity3d.com
-remote-config-prd.uca.cloud.unity3d.com # CNAME for (config.uca.cloud.unity3d.com)
-cdp.cloud.unity3d.com
-prd-lender.cdp.internal.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
-thind-gke-usc.prd.data.corp.unity3d.com # CNAME for (cdp.cloud.unity3d.com)
-
 # US Bank
 
 usbank.demdex.net
@@ -499,8 +558,19 @@ gitmemory.com
 
 # JQuery
 
+code.jquery.com
 jqueryui.com
 api.jqueryui.com
+
+# Metrics
+
+bam.nr-data.net
+ingest.sentry.io
+events.split.io
+sdk.split.io
+js-agent.newrelic.com
+c.go-mpulse.com
+s.go-mpulse.net
 
 # VSCode
 
@@ -547,26 +617,56 @@ swiss.torguard.com
 
 # https://help.steampowered.com/en/faqs/view/2EA8-4D75-DA21-31EB
 steam-chat.com
+www.steam-chat.com
 steamcontent.com
+www.steamcontent.com
 steamcommunity.com
+www.steamcommunity.com
 steamdeck.com
+www.steamdeck.com
 steamgames.com
+www.steamgames.com
 steampowered.com
+www.steampowered.com
+store.steampowered.com
+www.store.steampowered.com
 test.steampowered.com
+www.test.steampowered.com
 steampoweredgames.com
+www.steampoweredgames.com
 steamstatic.com
+www.steamstatic.com
 steamusers.com
+www.steamusers.com
 steamusercontent.com
+www.steamusercontent.com
 valve.org
+www.valve.org
 valvecorporation.com
+www.valvecorporation.com
 valvesoftware.com
-#akamaihd.net
+www.valvesoftware.com
 steam-a.akamaihd.net
+www.steam-a.akamaihd.net
+steam-a.akamaihd.net.edgesuite.net # CNAME for (steam-a.akamaihd.net)
 steamcommunity-a.akamaihd.net
+www.steamcommunity-a.akamaihd.net
+steamcommunity-a.akamaihd.net.edgesuite.net # CNAME for (steamcommunity-a.akamaihd.net)
 steamcdn-a.akamaihd.net
+www.steamcdn-a.akamaihd.net
+steamcdn-a.akamaihd.net.edgesuite.net # CNAME for (steamcdn-a.akamaihd.net)
 steamstore-a.akamaihd.net
+www.steamstore-a.akamaihd.net
+steamstore-a.akamaihd.net.edgesuite.net # CNAME for (steamstore-a.akamaihd.net)
 steamuserimages-a.akamaihd.net
+www.steamuserimages-a.akamaihd.net
+steamuserimages-a.akamaihd.net.edgesuite.net # CNAME for (steamuserimages-a.akamaihd.net)
 steamvideo-a.akamaihd.net
-#akamaized.net
+www.steamvideo-a.akamaihd.net
+steamvideo-a.akamaihd.net.edgesuite.net # CNAME for (steamvideo-a.akamaihd.net)
 steambroadcast.akamaized.net
+www.steambroadcast.akamaized.net
+a1507.w16.akamai.net # CNAME for (steambroadcast.akamaized.net)
 steampipe.akamaized.net
+www.steampipe.akamaized.net
+a1507.dscw27.akamai.net # CNAME for (steampipe.akamaized.net)
