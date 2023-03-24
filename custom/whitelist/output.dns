@@ -162,6 +162,7 @@ drive.google.com
 
 play.google.com
 android.clients.google.com
+playconsoleapps-pa.clients6.google.com
 
 # Google Keep
 
@@ -181,6 +182,7 @@ forms.gle
 mail.google.com
 googleapis.l.google.com
 storage.googleapis.com
+googleusercontent.com
 
 # Chrome
 
@@ -423,6 +425,10 @@ duckdns.org
 www.duckdns.org
 appservers-duckdns-prod-1630339571.ca-central-1.elb.amazonaws.com # CNAME for (duckdns.org)
 
+# Dropbox
+
+dropbox.com
+
 # Honey
 
 joinhoney.com
@@ -434,6 +440,8 @@ d.joinhoney.com
 imgur.com
 p.imgur.com
 t.imgur.com
+i.stack.imgur.com
+gravatar.com
 secure.gravatar.com
 cdn.optimizely.com
 cf2.imgobject.com
@@ -456,12 +464,9 @@ cdn.ipinfo.io
 lastpass.com
 www.lastpass.com
 admin.lastpass.com
+akamai.admin.lastpass.com.logmein.com.akadns.net # CNAME for (admin.lastpass.com)
 helpdesk.lastpass.com
-
-# Mediamonkey
-
-mediamonkey.com
-www.mediamonkey.com
+redirect.logmein.com.akadns.net # CNAME for (helpdesk.lastpass.com)
 
 # Maxmind
 
@@ -471,6 +476,15 @@ static.maxmind.com
 www.static.maxmind.com
 download.maxmind.com
 www.download.maxmind.com
+
+# Mediamonkey
+
+mediamonkey.com
+www.mediamonkey.com
+
+# Mint Mobile
+
+my.mintmobile.com
 
 # Nexus Mods
 
@@ -551,6 +565,7 @@ github.githubassets.com
 api.github.com
 docs.github.com
 codeload.github.com
+githubusercontent.com
 avatars.githubusercontent.com
 raw.githubusercontent.com
 gitlab.com
