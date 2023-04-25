@@ -74,8 +74,10 @@ androidtvwatsonfe-pa.googleapis.com
 
 # Firebase
 
+analytics.google.com
 firestore.googleapis.com
 firebasestorage.googleapis.com
 firebaseinstallations.googleapis.com
 imasdk.googleapis.com
 firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com

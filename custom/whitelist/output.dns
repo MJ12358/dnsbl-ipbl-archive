@@ -197,11 +197,13 @@ androidtvwatsonfe-pa.googleapis.com
 
 # Firebase
 
+analytics.google.com
 firestore.googleapis.com
 firebasestorage.googleapis.com
 firebaseinstallations.googleapis.com
 imasdk.googleapis.com
 firebase-settings.crashlytics.com
+firebaselogging-pa.googleapis.com
 ####################
 # Kodi
 ####################
@@ -315,6 +317,7 @@ www.xboxlive.com
 hiveos.farm
 the.hiveos.farm
 api.hiveon.net
+shell.hiveos.farm
 hiveon.net
 
 # 2 Miners
@@ -328,6 +331,7 @@ rvn.2miners.com
 xmr.2miners.com
 us-rvn.2miners.com
 static-d.2miners.com
+static-l.2miners.com
 
 # Nicehash
 
@@ -417,6 +421,12 @@ docs.friendos.com
 xvideos.com
 www.xvideos.com
 
+# Discord
+
+discord.com
+cdn.discordapp.com
+click.discord.com
+
 # DNS
 
 one.one.one.one
@@ -428,6 +438,12 @@ appservers-duckdns-prod-1630339571.ca-central-1.elb.amazonaws.com # CNAME for (d
 # Dropbox
 
 dropbox.com
+
+# Ebay
+
+ebay.com
+backstory.ebay.com
+rover.ebay.com
 
 # Honey
 
@@ -599,6 +615,7 @@ download.visualstudio.microsoft.com
 jetbrains.com
 jsfiddle.net
 dev.to
+pub.dev
 ####################
 # Salesforce
 ####################
