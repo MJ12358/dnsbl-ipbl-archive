@@ -35,6 +35,10 @@ captive.apple.com
 gsp1.apple.com
 www.apple.com
 www.appleiphonecell.com
+
+# Spotlight Suggestions
+
+api.smoot.apple.com
 ####################
 # Craigslist
 ####################
@@ -271,6 +275,7 @@ displaycatalog.mp.microsoft.com
 # Windows 10 Update
 
 sls.update.microsoft.com.akadns.net
+fe3.delivery.mp.microsoft.com
 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 tlu.dl.delivery.mp.microsoft.com
 

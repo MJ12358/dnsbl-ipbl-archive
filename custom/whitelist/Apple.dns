@@ -27,3 +27,7 @@ captive.apple.com
 gsp1.apple.com
 www.apple.com
 www.appleiphonecell.com
+
+# Spotlight Suggestions
+
+api.smoot.apple.com
