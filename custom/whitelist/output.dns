@@ -451,6 +451,11 @@ ebay.com
 backstory.ebay.com
 rover.ebay.com
 
+# Home Depot
+
+customer.homedepot.com
+homedepot.tt.omtrdc.net
+
 # Honey
 
 joinhoney.com
@@ -544,6 +549,7 @@ e8386.a.akamaiedge.net # CNAME for (www.rosewill.com)
 thepiratebay.org
 psarips.top
 psa.pm
+psa.wf
 yts.rs
 x1337x.eu
 
@@ -592,6 +598,11 @@ avatars.githubusercontent.com
 raw.githubusercontent.com
 gitlab.com
 gitmemory.com
+
+# IBM
+
+developer.ibm.com
+myibm.ibm.com
 
 # JQuery
 
