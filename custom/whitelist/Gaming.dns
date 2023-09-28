@@ -33,7 +33,7 @@ battlelog.battlefield.com
 www.battlelog.battlefield.com
 ea3.com.edgekey.net # CNAME for (battlelog.battlefield.com)
 ea7.com.edgekey.net
-e4894.e12.akamaiedge.net. # CNAME for (ea7.com.edgekey.net)
+e4894.e12.akamaiedge.net # CNAME for (ea7.com.edgekey.net)
 cdn.battlelog.com
 d15x0nwh5tj6h5.cloudfront.net # CNAME for (cdn.battlelog.com)
 cloudsync-prod.s3.amazonaws.com
