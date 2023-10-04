@@ -6,9 +6,11 @@
 ||cn^
 ||ga^
 ||gq^
+||in^
 ||ma^
 ||ml^
 ||om^
+||pw^
 ||ru^
 ||su^
 ||tc^
