@@ -41,7 +41,7 @@
 ||world^
 ||work^
 ||xy^
-||xyz^
+#||xyz^
 ||xxx^
 ||zip^
 ||zone^
